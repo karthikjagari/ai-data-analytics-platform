@@ -115,6 +115,8 @@ Workflow:
 - [API Documentation](./docs/API.md)
 - [Database Schema](./docs/DATABASE.md)
 - [Deployment Guide](./docs/DEPLOYMENT.md)
+- [GitHub & Vercel Setup](./GITHUB_VERCEL_SETUP.md)
+- [Detailed Deployment Guide](./DEPLOYMENT_GUIDE.md)
 
 ## 🚢 Deployment
 
@@ -122,5 +124,4 @@ Workflow:
 - **Vanna AI**: Deploy to Render/Railway/Fly.io
 - **Database**: Use managed PostgreSQL (Supabase, Neon, etc.)
 
-See [Deployment Guide](./docs/DEPLOYMENT.md) for detailed instructions.
-
+See [Deployment Guide](./docs/DEPLOYMENT.md) or [GitHub & Vercel Setup](./GITHUB_VERCEL_SETUP.md) for detailed instructions.
